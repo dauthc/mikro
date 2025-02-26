@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Christine Dauth">
-<meta name="dcterms.date" content="2025-02-26">
 
-<title>Mikroökonomik: Materialsammlung zum Selbststudium</title>
+<title>Mikroökonomik: Materialsammlung zum Selbststudium - 11&nbsp; Distributionsfunktion</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -32,7 +50,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./chapter_1.html" rel="next">
+<link href="./references.html" rel="next">
+<link href="./chapter_10.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -42,9 +61,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script src="site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -85,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Einführung und Lernziele</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./chapter_11.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Distributionsfunktion</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -112,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Einführung und Lernziele</span></a>
   </div>
 </li>
@@ -178,6 +196,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./chapter_11.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Distributionsfunktion</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./references.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Literaturverzeichnis</span></a>
   </div>
@@ -192,12 +216,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#einführung-und-lernziele" id="toc-einführung-und-lernziele" class="nav-link active" data-scroll-target="#einführung-und-lernziele">Einführung und Lernziele</a>
-  <ul class="collapse">
-  <li><a href="#einführung" id="toc-einführung" class="nav-link" data-scroll-target="#einführung">Einführung</a></li>
-  <li><a href="#wofür-brauche-ich-das-hier" id="toc-wofür-brauche-ich-das-hier" class="nav-link" data-scroll-target="#wofür-brauche-ich-das-hier">Wofür brauche ich das hier?</a></li>
-  <li><a href="#das-sollten-sie-also-am-ende-des-semesters-können" id="toc-das-sollten-sie-also-am-ende-des-semesters-können" class="nav-link" data-scroll-target="#das-sollten-sie-also-am-ende-des-semesters-können">Das sollten Sie also am Ende des Semesters können</a></li>
-  </ul></li>
+  <li><a href="#lesen" id="toc-lesen" class="nav-link active" data-scroll-target="#lesen"><span class="header-section-number">11.1</span> Lesen</a></li>
+  <li><a href="#videos" id="toc-videos" class="nav-link" data-scroll-target="#videos"><span class="header-section-number">11.2</span> Videos</a></li>
+  <li><a href="#zusammenfassung" id="toc-zusammenfassung" class="nav-link" data-scroll-target="#zusammenfassung"><span class="header-section-number">11.3</span> Zusammenfassung</a></li>
+  <li><a href="#wiederholungsfragen" id="toc-wiederholungsfragen" class="nav-link" data-scroll-target="#wiederholungsfragen"><span class="header-section-number">11.4</span> Wiederholungsfragen</a></li>
+  <li><a href="#übungsaufgaben" id="toc-übungsaufgaben" class="nav-link" data-scroll-target="#übungsaufgaben"><span class="header-section-number">11.5</span> Übungsaufgaben</a></li>
   </ul>
 </nav>
     </div>
@@ -206,26 +229,14 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Mikroökonomik: Materialsammlung zum Selbststudium</h1>
+<h1 class="title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Distributionsfunktion</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Christine Dauth </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">February 26, 2025</p>
-    </div>
-  </div>
   
     
   </div>
@@ -235,42 +246,105 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="resources/competence-7412962_1280.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="quarto-lightbox-gallery-1" title="Mikroökonomik - Bild von Rosy / Bad Homburg / Germany auf Pixaby"><img src="resources/competence-7412962_1280.jpg" class="img-fluid figure-img" alt="Mikroökonomik - Bild von Rosy / Bad Homburg / Germany auf Pixaby"></a></p>
-<figcaption>Mikroökonomik - Bild von <a href="https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7412962">Rosy</a> / Bad Homburg / Germany auf Pixaby</figcaption>
+<p>Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:</p>
+<section id="lesen" class="level2" data-number="11.1">
+<h2 data-number="11.1" class="anchored" data-anchor-id="lesen"><span class="header-section-number">11.1</span> Lesen</h2>
+<p>Lesen Sie das Kapitel 12 aus <span class="citation" data-cites="bofinger2020">Bofinger (<a href="references.html#ref-bofinger2020" role="doc-biblioref">2020</a>)</span> “Die Distributionsfunktion des Staates sorgt für den”sozialen Ausgleich” in einer Marktwirtschaft”.</p>
+</section>
+<section id="videos" class="level2" data-number="11.2">
+<h2 data-number="11.2" class="anchored" data-anchor-id="videos"><span class="header-section-number">11.2</span> Videos</h2>
+<p>Sehen Sie sich folgende Videos an:</p>
+<div id="vid-dist1" class="quarto-float">
+<figure class="quarto-float quarto-float-vid figure">
+<div aria-describedby="vid-dist1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/sq1zIj8s8R0?si=rm-mYSlaakZMZIod" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-vid" id="vid-dist1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Video&nbsp;11.1: Höchstpreise
+</figcaption>
 </figure>
 </div>
-<section id="einführung-und-lernziele" class="level1 unnumbered">
-<h1 class="unnumbered">Einführung und Lernziele</h1>
-<section id="einführung" class="level2">
-<h2 class="anchored" data-anchor-id="einführung">Einführung</h2>
-<p>Auf dieser Seite finden Sie die Selbstlernmaterialen, die Sie benötigen, um sich eigenständig mit den Inhalten der Mikroökonomik aus dem <strong>Modul “Mikro- und Makroökonomik”</strong> vertraut zu machen. Ergänzend gibt es auch <a href="https://hsanmakro.netlify.app/">Selbstlernmaterialen für den Bereich Makroökonomik</a>.</p>
-</section>
-<section id="wofür-brauche-ich-das-hier" class="level2">
-<h2 class="anchored" data-anchor-id="wofür-brauche-ich-das-hier">Wofür brauche ich das hier?</h2>
-<p>Wissen über Mikroökonomik ist nicht nur für Ihren Job, sondern auch im Alltag unglaublich wertvoll! Es hilft Ihnen zu verstehen, wie individuelle Entscheidungen von Unternehmen und Konsumenten Märkte beeinflussen – und wie Sie selbst bessere wirtschaftliche Entscheidungen treffen können. Im Beruf profitieren Sie davon, Marktstrukturen zu analysieren, Preissetzungen nachzuvollziehen und strategische Entscheidungen in Unternehmen oder Beratungen fundiert zu treffen. Auch privat bringt Ihnen das Know-how über Angebot und Nachfrage, Wettbewerbsstrategien oder Konsumentenverhalten klare Vorteile: Sie verstehen, warum Preise schwanken, wie Unternehmen ticken und können als informierter Verbraucher oder Unternehmer smarter handeln.</p>
-<p>👉 Kurz gesagt: Mikroökonomik gibt Ihnen das Werkzeug an die Hand, um Märkte und Entscheidungen besser zu verstehen – beruflich wie privat! 💡</p>
-</section>
-<section id="das-sollten-sie-also-am-ende-des-semesters-können" class="level2">
-<h2 class="anchored" data-anchor-id="das-sollten-sie-also-am-ende-des-semesters-können">Das sollten Sie also am Ende des Semesters können</h2>
-<p>Nach Abschluss der Veranstaltung sind Sie in der Lage, die grundlegenden Mechanismen und Zusammenhänge der Mikroökonomik zu verstehen. Dazu gehören:</p>
-<ul>
-<li><p>die Grundlagen von Angebot &amp; Nachfrage und der Preisbildung auf Märkten</p></li>
-<li><p>Konsumentenverhalten und Nutzenmaximierung</p></li>
-<li><p>Produktionsentscheidungen und Kostenstrukturen von Unternehmen</p></li>
-<li><p>Marktformen und Wettbewerb (vollständige Konkurrenz, Monopol, Plattformökonomie)</p></li>
-<li><p>Grundlagen der Arbeitsmarktökonomik</p></li>
-<li><p>externen Effekte und öffentliche Güter</p></li>
-<li><p>Wirtschaftspolitik</p></li>
-</ul>
-<p>Sie können wirtschaftliche Entscheidungen von Konsumenten und Unternehmen modellieren, Marktmechanismen analysieren und wirtschaftspolitische Maßnahmen hinsichtlich Wettbewerb, Effizienz und Wohlfahrt bewerten.</p>
-
-
-<div class="hidden" aria-hidden="true">
-<span class="glightbox-desc lightbox-desc-1">Mikroökonomik - Bild von <a href="https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=7412962">Rosy</a> / Bad Homburg / Germany auf Pixaby</span>
+<p>Beantworten Sie folgende kurze Übungsfragen <a href="https://mru.org/practice-questions/price-ceiling-practice-questions">auf der Seite von MRU</a>.</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Video: Der Kompromiss zwischen Spaß und Lohn: No Such Thing as a Free Lunch">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Video: Der Kompromiss zwischen Spaß und Lohn: No Such Thing as a Free Lunch
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div>
+<div id="vid-am2" class="quarto-float">
+<figure class="quarto-float quarto-float-vid figure">
+<div aria-describedby="vid-am2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="hhttps://youtu.be/lpSz2x0c1rU?si=CEDBgE2rqumInzOs"></video></div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-vid" id="vid-am2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Video&nbsp;11.2: Der Kompromiss zwischen Spaß und Lohn
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled" title="Video: Preisuntergrenzen: Der Mindestlohn">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Video: Preisuntergrenzen: Der Mindestlohn
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div>
+<div id="vid-am3" class="quarto-float">
+<figure class="quarto-float quarto-float-vid figure">
+<div aria-describedby="vid-am3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/65kfAswiHLk?si=GzCm6FM9Ue4q_Zsq" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-vid" id="vid-am3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Video&nbsp;11.3: Preisuntergrenzen: Der Mindestlohn
+</figcaption>
+</figure>
+</div>
+</div>
+<p>Beantworten Sie folgende kurze Übungsfragen <a href="https://mru.org/practice-questions/price-floors-minimum-wage-practice-questions">auf der Seite von MRU</a>.</p>
+</div>
+</div>
 </div>
 </section>
+<section id="zusammenfassung" class="level2" data-number="11.3">
+<h2 data-number="11.3" class="anchored" data-anchor-id="zusammenfassung"><span class="header-section-number">11.3</span> Zusammenfassung</h2>
+<p>Lesen Sie als Zusammenfassung das Kapitel 10.1 im Arbeitsbuch von <span class="citation" data-cites="bofinger_grundzuge_2020">Bofinger and Mayer (<a href="references.html#ref-bofinger_grundzuge_2020" role="doc-biblioref">2020</a>)</span>.</p>
+</section>
+<section id="wiederholungsfragen" class="level2" data-number="11.4">
+<h2 data-number="11.4" class="anchored" data-anchor-id="wiederholungsfragen"><span class="header-section-number">11.4</span> Wiederholungsfragen</h2>
+<p>Reflektieren Sie die Kontrollfragen aus Kapitel 10.2.2 in <span class="citation" data-cites="bofinger_grundzuge_2020">Bofinger and Mayer (<a href="references.html#ref-bofinger_grundzuge_2020" role="doc-biblioref">2020</a>)</span>.</p>
+</section>
+<section id="übungsaufgaben" class="level2" data-number="11.5">
+<h2 data-number="11.5" class="anchored" data-anchor-id="übungsaufgaben"><span class="header-section-number">11.5</span> Übungsaufgaben</h2>
+<ul>
+<li><p>Bearbeiten Sie die Aufgaben 1 und 2 aus Kapitel 10 in <span class="citation" data-cites="bofinger2020">Bofinger (<a href="references.html#ref-bofinger2020" role="doc-biblioref">2020</a>)</span> .</p></li>
+<li><p>Bearbeiten Sie die Aufgaben 3 und 5 aus Kapitel 10.2.1 im Übungsbuch <span class="citation" data-cites="bofinger_grundzuge_2020">Bofinger and Mayer (<a href="references.html#ref-bofinger_grundzuge_2020" role="doc-biblioref">2020</a>)</span>.</p></li>
+</ul>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-bofinger2020" class="csl-entry" role="listitem">
+Bofinger, Peter. 2020. <em>Grundzüge der Volkswirtschaftslehre: eine Einführung in die Wissenschaft von Märkten</em>. 5., aktualisierte Auflage. Hallbergmoos: Pearson.
+</div>
+<div id="ref-bofinger_grundzuge_2020" class="csl-entry" role="listitem">
+Bofinger, Peter, and Eric Mayer. 2020. <em>Grundzüge Der <span>Volkswirtschaftslehre</span>: Das Übungsbuch</em>. 4., aktualisierte Auflage. Hallbergmoos: Pearson.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -685,39 +759,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./chapter_10.html" class="pagination-link" aria-label="Wirtschaftspolitische Eingriffe">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Wirtschaftspolitische Eingriffe</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./chapter_1.html" class="pagination-link" aria-label="Die &quot;unsichtbare Hand&quot; des Marktes">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Die “unsichtbare Hand” des Marktes</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./references.html" class="pagination-link" aria-label="Literaturverzeichnis">
+        <span class="nav-page-text">Literaturverzeichnis</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","loop":false,"descPosition":"bottom","openEffect":"zoom"});
-window.onload = () => {
-  lightboxQuarto.on('slide_before_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    const href = trigger.getAttribute('href');
-    if (href !== null) {
-      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-      if (imgEl !== null) {
-        const srcAttr = imgEl.getAttribute("src");
-        if (srcAttr && srcAttr.startsWith("data:")) {
-          slideConfig.href = srcAttr;
-        }
-      }
-    } 
-  });
-
-  lightboxQuarto.on('slide_after_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    if (window.Quarto?.typesetMath) {
-      window.Quarto.typesetMath(slideNode);
-    }
-  });
-
-};
-          </script>
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 
