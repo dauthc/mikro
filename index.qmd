@@ -1,0 +1,36 @@
+![Mikroökonomik - Bild von [Rosy](https://pixabay.com/de/users/roszie-6000120/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7412962) / Bad Homburg / Germany auf Pixaby](resources/competence-7412962_1280.jpg){.lightbox}
+
+
+
+# Einführung und Lernziele {.unnumbered}
+
+## Einführung
+
+Auf dieser Seite finden Sie die Selbstlernmaterialen, die Sie benötigen, um sich eigenständig mit den Inhalten der Mikroökonomik aus dem **Modul "Mikro- und Makroökonomik"** vertraut zu machen. Ergänzend gibt es auch [Selbstlernmaterialen für den Bereich Makroökonomik](https://hsanmakro.netlify.app/).
+
+## Wofür brauche ich das hier?
+
+Wissen über Mikroökonomik ist nicht nur für Ihren Job, sondern auch im Alltag unglaublich wertvoll! Es hilft Ihnen zu verstehen, wie individuelle Entscheidungen von Unternehmen und Konsumenten Märkte beeinflussen – und wie Sie selbst bessere wirtschaftliche Entscheidungen treffen können. Im Beruf profitieren Sie davon, Marktstrukturen zu analysieren, Preissetzungen nachzuvollziehen und strategische Entscheidungen in Unternehmen oder Beratungen fundiert zu treffen. Auch privat bringt Ihnen das Know-how über Angebot und Nachfrage, Wettbewerbsstrategien oder Konsumentenverhalten klare Vorteile: Sie verstehen, warum Preise schwanken, wie Unternehmen ticken und können als informierter Verbraucher oder Unternehmer smarter handeln.
+
+👉 Kurz gesagt: Mikroökonomik gibt Ihnen das Werkzeug an die Hand, um Märkte und Entscheidungen besser zu verstehen – beruflich wie privat! 💡
+
+## Das sollten Sie also am Ende des Semesters können
+
+Nach Abschluss der Veranstaltung sind Sie in der Lage, die grundlegenden Mechanismen und Zusammenhänge der Mikroökonomik zu verstehen. Dazu gehören:
+
+
+-   die Grundlagen von Angebot & Nachfrage und der Preisbildung auf Märkten
+
+-   Konsumentenverhalten und Nutzenmaximierung
+
+-   Produktionsentscheidungen und Kostenstrukturen von Unternehmen
+
+-   Marktformen und Wettbewerb (vollständige Konkurrenz, Monopol, Plattformökonomie)
+
+-   Grundlagen der Arbeitsmarktökonomik
+
+-   externen Effekte und öffentliche Güter
+
+-   Wirtschaftspolitik 
+
+Sie können wirtschaftliche Entscheidungen von Konsumenten und Unternehmen modellieren, Marktmechanismen analysieren und wirtschaftspolitische Maßnahmen hinsichtlich Wettbewerb, Effizienz und Wohlfahrt bewerten.

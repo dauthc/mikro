@@ -1,0 +1,62 @@
+# Arbeitsmarktökonomik
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 10 aus @bofinger2020 "Auch auf dem Arbeitsmarkt gelten die Prinzipien von Angebot und Nachfrage...".
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-am1}
+{{< video https://youtu.be/G7ai5LAehqg?si=dkJCQd1aanRAspez >}}
+Das Grenzprodukt der Arbeit
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/marginal-product-labor-practice-questions).
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Der Kompromiss zwischen Spaß und Lohn: No Such Thing as a Free Lunch"}
+<div>
+
+::: {#vid-am2}
+{{< video hhttps://youtu.be/lpSz2x0c1rU?si=CEDBgE2rqumInzOs >}} 
+Der Kompromiss zwischen Spaß und Lohn
+:::
+
+</div>
+:::
+
+::: {.callout-tip collapse="true" title="Video: Preisuntergrenzen: Der Mindestlohn"}
+<div>
+
+::: {#vid-am3}
+{{< video https://youtu.be/65kfAswiHLk?si=GzCm6FM9Ue4q_Zsq >}} 
+Preisuntergrenzen: Der Mindestlohn
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-floors-minimum-wage-practice-questions).
+:::
+
+
+## Zusammenfassung
+
+Lesen Sie als Zusammenfassung das Kapitel 10.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus Kapitel 10.2.2 in @bofinger_grundzuge_2020.
+
+
+
+## Übungsaufgaben
+
+-   Bearbeiten Sie die Aufgaben 1 und 2 aus Kapitel 10 in @bofinger2020 .
+
+-   Bearbeiten Sie die Aufgaben 3 und 5 aus Kapitel 10.2.1 im Übungsbuch @bofinger_grundzuge_2020.

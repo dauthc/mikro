@@ -1,0 +1,143 @@
+# Die Marktkräfte von Angebot und Nachfrage
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 5 aus @bofinger2020 "Der Markt in Aktion".
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-markt1}
+{{< video https://youtu.be/kUPm2tMCbGE?si=MId0sl0wC-AI0r_Q >}} 
+Die Nachfragekurve
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/demand-curve-practice-questions).
+
+::: {.callout-tip collapse="true" title="Video: Die Angebotskurve"}
+<div>
+
+::: {#vid-markt2}
+{{< video https://youtu.be/nKvrbOq1OfI?si=IjTXhBpP5MH7UoIg >}} 
+Die Angebotskurve
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/supply-curve-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Gleichgewichtspreis und -menge"}
+<div>
+
+::: {#vid-markt3}
+{{< video https://youtu.be/7eZcPs9z9OA?si=jfaHK5nSyTo9yBNb >}}
+Gleichgewichtspreis und -menge
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/equilibrium-price-and-quantity-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die Nachfragekurve verstehen: Verschiebungen und Konsumentenrente"}
+<div>
+
+::: {#vid-markt4}
+{{< video https://youtu.be/outYDTq-jPc?si=SkGrC9HKacF5bo66 >}}
+Die Nachfragekurve verstehen: Verschiebungen und Konsumentenrente
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/deeper-look-demand-curve-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Warum verschiebt sich die Nachfragekurve?"}
+<div>
+::: {#vid-markt5}
+{{< video https://youtu.be/XYr8natwhuY?si=wqhBKOfT81wa2BsH >}}
+Warum verschiebt sich die Nachfragekurve?
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von  MRU](https://mru.org/practice-questions/demand-curve-shifts-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Verschiebung der Nachfragekurve versus Veränderung auf der Nachfragekurve"}
+<div>
+::: {#vid-markt6}
+{{< video https://youtu.be/9jLlOPqHxLs?si=svLQOxarzO0aLBQd >}}
+Verschiebung der Nachfragekurve versus Veränderung auf der Nachfragekurve
+:::
+</div>
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die Angebotskurve verstehen: Verschiebungen und Produzentenrente"}
+<div>
+::: {#vid-markt7}
+{{< video https://youtu.be/lyUQZZ75DpE?si=UI9UZRmr6cRwZ5DC >}}
+Die Angebotskurve verstehen: Verschiebungen und Produzentenrente
+:::
+</div>
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Warum verschiebt sich die Angebotskurve?"}
+<div>
+::: {#vid-markt8}
+{{< video https://youtu.be/5iyCwbvJc_U?si=4o-ACTfjDz7B_Wv1 >}}
+Warum verschiebt sich die Angebotskurve?
+:::
+</div>
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Untersuchung des Marktgleichgewichts"}
+<div>
+::: {#vid-markt9}
+{{< video https://youtu.be/ze1XRwb4hD8?si=4F4q6dRt_6VHMXZv >}}
+Untersuchung des Marktgleichgewichts
+:::
+</div>
+:::
+
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 5.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus @bofinger_grundzuge_2020 aus Kapitel 5.2.2.
+
+## Übungsaufgaben
+
+- Bearbeiten Sie die beiden Übungsaufgaben aus @bofinger2020 aus Kapitel 5.
+- Bearbeiten Sie Aufgabe 3 in Kapite, 5.2.1 im Übungsbuch @bofinger_grundzuge_2020.
+
+- [Interaktive Übung, um die Nachfragekurve zu zeichnen](https://practice.mru.org/demandgraph/?_ga=2.232540504.636567893.1740404147-665528378.1737011828)
+
+- [Interaktive Übung, um die Angebotskurve zu zeichnen](https://mru.org/courses/principles-economics-microeconomics/graph-supply-curve/interactive-practice)
+
+- [Interaktive Übung zum üben von dem Unterschied Verschiebung der Nachfragekurve versus Veränderung auf der Nachfragekurve](https://practice.mru.org/demand/?_ga=2.198913512.636567893.1740404147-665528378.1737011828)
+
+- [Interaktive Übung zum üben von dem Unterschied Verschiebung der Angebotskurve versus Veränderung auf der Nachfragekurve](hhttps://mru.org/courses/principles-economics-microeconomics/change-supply-vs-change-quantity-supplied/interactive-practice)
+
+- [Interaktive Übung zum Marktgleichgewicht](https://practice.mru.org/equilibrium/?_ga=2.159589114.636567893.1740404147-665528378.1737011828)
+
+- [Interaktive Übung zum Konsumenten- und Produzentenrente](https://practice.mru.org/surplus/?_ga=2.155405052.636567893.1740404147-665528378.1737011828)

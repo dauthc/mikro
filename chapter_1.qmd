@@ -1,0 +1,96 @@
+# Die "unsichtbare Hand" des Marktes
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 2 aus @bofinger2020 "Volkswirtschaftliche Daten und Rechenwerke".
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-price1}
+{{< video https://youtu.be/t3QMC_TeP-Q?si=9s-h6kHLc26Rtvi4 >}} I, Rose
+:::
+
+::: {.callout-tip collapse="true" title="Video: Ein Preis ist ein Signal, das als Anreiz verpackt ist "}
+<div>
+
+::: {#vid-price2}
+{{< video https://youtu.be/aBYzvPbIFNw?si=DcbTrK2uL7wD3a8A >}} Ein Preis ist ein Signal, das als Anreiz verpackt ist
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-signal-wrapped-incentive-practice-questions). Einige Fragen können Sie eventuell erst nach späteren Kapiteln beantworten.
+:::
+
+::: {.callout-tip collapse="true" title="Video: Märkte verbinden die Welt"}
+<div>
+
+::: {#vid-price3}
+{{< video https://youtu.be/vzkYfgme2Ps?si=jNMKjKllLTyOcXMc >}} Märkte verbinden die Welt
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/markets-link-world-practice-questions). Einige Fragen können Sie eventuell erst nach späteren Kapiteln beantworten.
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Das große ökonomische Problem"}
+<div>
+
+::: {#vid-price4}
+{{< video https://youtu.be/F-ybXohHAXY?si=EUnicNAHv3cpQ_Wg >}} Das große ökonomische Problem
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/great-economic-problem-practice-questions).
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Informationen und Anreize"}
+<div>
+
+::: {#vid-price5}
+{{< video https://youtu.be/CK9YtHLhjPA?si=Lnx8wy0udTsoO2s- >}} Informationen und Anreize
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/information-and-incentives-practices-questions). Einige Fragen können Sie eventuell erst nach späteren Kapiteln beantworten.
+:::
+
+
+
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 2.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Wiederholungsfragen aus @bofinger_grundzuge_2020 aus Kapitel 2.2.2.
+
+## Übungsaufgaben
+
+-   **Aufgabe 2:** Zu einem der vier Auktionszeitpunkte im Xetra-Handel liegen für die Aktie der Bubble-Tech folgende Orders vor:
+
+![Orders der Aktie](images/clipboard-1226648361.png)
+
+1.  Erstellen Sie auf der Grundlage der obigen Aufträge ein Orderbuch.
+
+2.  Bestimmen Sie die angebotene und die nachgefragte Menge bei unterschiedlichen Kursniveaus.
+
+3.  Ermitteln Sie die zu den einzelnen Kursniveaus gehandelten Stückzahlen sowie die sich jeweils hieraus ergebenden Nachfrage- und Angebotsüberhänge. Wo liegt der markträumende Preis?
+
+4.  Stellen Sie die Angebots- und die Nachfragekurve grafisch dar und überprüfen Sie das in 3. ermittelte Ergebnis.
+
+5.  Berechnen Sie den "Handelsgewinn", den jeder einzelne Marktteilnehmer für sich verbuchen kann. Gehen Sie davon aus, dass der Wert immer um eine Einheit unter dem Verkaufspreis bzw. über dem Kaufpreis liegt. Für Gebote mit billigst oder bestens kann der Gewinn nicht ermittelt werden.

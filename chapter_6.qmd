@@ -1,0 +1,100 @@
+# Die Angebotsseite
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 7 aus @bofinger2020 "Wie alle Informationen über die Angebotsseite in der Angebotskurve verdichtet werden".
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-supp1}
+{{< video https://youtu.be/muFSypea2vo?si=vencHrIARattdRIP >}}
+Das preisnehmende Unternehmen im Wettbewerbsmarkt
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/introduction-competitive-firm-practice-questions).
+
+::: {.callout-tip collapse="true" title="Video: Gewinnmaximierung im Wettbewerb"}
+<div>
+
+::: {#vid-supp2}
+{{< video https://youtu.be/0x4f2e5m1Jw?si=JfT-WE21guFB2iXw >}} 
+Gewinnmaximierung im Wettbewerb
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/maximizing-profit-under-competition-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Gewinnmaximierung und die Durchschnittskostenkurve"}
+<div>
+
+::: {#vid-supp3}
+{{< video https://youtu.be/hl5HqR8bCio?si=x1Kdw-IkSFO0D2aM >}} 
+Gewinnmaximierung und die Durchschnittskostenkurve
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-increasing-costs-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten"}
+<div>
+
+::: {#vid-supp4}
+{{< video https://youtu.be/oESAMwiF40c?si=wi2dj4bf9oNftl8Q >}} 
+Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/consumer-optimization-practice-questions).
+:::
+
+
+
+
+::: {.callout-note collapse="true" title="Bonusmaterial: Alternative Kostenszenarien"}
+<div>
+
+::: {#vid-supp5}
+{{< video https://youtu.be/BZ31XUGj34I?si=38tHgojGp42Asfi9 >}}
+Eintritte, Austritte und Angebotskurven: Der Fall konstanter Kosten
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-constant-costs-practice-questions).
+
+<div>
+::: {#vid-supp6}
+{{< video https://youtu.be/G82LWt7i8as?si=4QqFfqrLr1YhTkyv >}} 
+Eintritte, Austritte und Angebotskurven: Der Fall sinkender Kosten
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-decreasing-costs-practice-questions).
+:::
+
+
+
+
+## Zusammenfassung
+
+Lesen Sie als Zusammenfassung das Kapitel 7.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus Kapitel 7.2.2 in @bofinger_grundzuge_2020.
+
+## Übungsaufgaben
+
+-   Bearbeiten Sie Aufgabe 3 aus Kapitel 7 in @bofinger2020 .
+
+-   Bearbeiten Sie die Aufgaben 1 und 3 aus Kapitel 7.2.1 im Übungsbuch @bofinger_grundzuge_2020.

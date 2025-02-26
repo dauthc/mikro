@@ -1,0 +1,63 @@
+# Arbeitsteilung und Handel
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 3 aus @bofinger2020 "Die Arbeitsteilung ist die Mutter unseres Wohlstandes".
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-comp1}
+{{< video https://youtu.be/4lCJymynZag?si=soo6QT7t7p0Oyq1N >}}
+Die Grundidee des Handels
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/big-ideas-trade-practice-questions). 
+
+
+
+::: {.callout-tip collapse="true" title="Video: Komparative Vorteile"}
+<div>
+
+::: {#vid-comp2}
+{{< video https://youtu.be/4rUfoU04QJM?si=oTD6FjxoLmUktB5f >}} 
+Komparative Vorteile
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/comparative-advantage-practice-questions). 
+:::
+
+::: {.callout-tip collapse="true" title="Video: Eine andere Sicht auf komparative Vorteile"}
+<div>
+
+::: {#vid-comp3}
+{{< video https://youtu.be/wY9n7EIVx9Y?si=Jrev9vK4o4FkJtXf >}} 
+Eine andere Sicht auf komparative Vorteile
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/another-look-comparative-advantage-practice-questions). 
+:::
+
+
+
+
+## Zusammenfassung
+
+Lesen Sie für eine Zusammenfassung das Kapitel 3.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+
+
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus @bofinger_grundzuge_2020 aus Kapitel 3.2.2.
+
+## Übungsaufgaben
+
+Bearbeiten Sie die drei Übungsaufgaben aus @bofinger2020 aus Kapitel 3.

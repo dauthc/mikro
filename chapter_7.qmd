@@ -1,0 +1,134 @@
+# Monopole und Kartelle
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 8 aus @bofinger2020 "Anbieter sind am Wettbewerb nicht sehr interessiert: die Welt von Monopolen und Kartellen".
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-mono1}
+{{< video https://youtu.be/IEjcTLPtTIY?si=3VecjQAa5ZHkXnk3 >}}
+Gewinnmaximierung im Monopol
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/maximizing-profit-under-monopoly-practice-questions).
+
+::: {.callout-tip collapse="true" title="Video: Sprechstunde: Das Gewinnmaximum im Monopol berechnen"}
+<div>
+
+::: {#vid-mon2}
+{{< video https://youtu.be/FiQsdBWEaMI?si=aIOOluDsHioIgGHW >}} 
+Sprechstunde: Das Gewinnmaximum im Monopol berechnen
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-calculating-monopoly-profit-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Der Preisaufschlag im Monopol"}
+<div>
+
+::: {#vid-mon3}
+{{< video https://youtu.be/Z-bz7yu2AOQ?si=-xioI3IXyWi0CohS >}} 
+Der Preisaufschlag im Monopol
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/monopoly-markup-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten"}
+<div>
+
+::: {#vid-mon4}
+{{< video https://youtu.be/oESAMwiF40c?si=wi2dj4bf9oNftl8Q >}} 
+Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/consumer-optimization-practice-questions).
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Kosten und Nutzen von Monopolen"}
+<div>
+
+::: {#vid-mon5}
+{{< video https://youtu.be/i605cdQmrhI?si=svSbDKzAMHl5LkgG >}}
+Kosten und Nutzen von Monopolen
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/costs-and-benefits-monopoly-practice-questions).
+
+:::
+
+
+
+::: {.callout-note collapse="true" title="Bonusmaterial zur Nachfrageelastizität"}
+<div>
+
+::: {#vid-mon6}
+{{< video https://youtu.be/J82_xd5XxXg?si=3WBikTRVgQWrOEqp >}}
+Die Nachfrageelastizität
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/elasticity-demand-practice-questions).
+
+
+
+
+<div>
+
+::: {#vid-mon7}
+{{< video https://youtu.be/lrGiZ7aTlQo?si=9wopH4MOeKTD59Xh >}}
+Die Nachfrageelastizität berechnen
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/calculating-elasticity-demand-practice-questions).
+
+
+
+<div>
+
+::: {#vid-mon8}
+{{< video  https://youtu.be/EZl86UOlOkg?si=NvENlherkWqmv5OF >}}
+Sprechstunde: Die Nachfrageelastizität
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-elasticity-practice-questions).
+
+:::
+
+
+## Zusammenfassung
+
+Lesen Sie als Zusammenfassung das Kapitel 8.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus Kapitel 8.2.2 in @bofinger_grundzuge_2020.
+
+
+
+## Übungsaufgaben
+
+-   Bearbeiten Sie die drei Aufgaben aus Kapitel 8 in @bofinger2020 .
+
+-   Bearbeiten Sie die Aufgaben 1, 2 und 4 aus Kapitel 8.2.1 im Übungsbuch @bofinger_grundzuge_2020.

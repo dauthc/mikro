@@ -1,0 +1,80 @@
+# Die Nachfrageseite
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 6 aus @bofinger2020 "Wie alle Informatinen über die Nachfrageseite in der Nachfragekurve verdichtet werden".
+
+## Videos
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-dem1}
+{{< video https://youtu.be/oG_R1jQPqTc?si=rAoNTOytMLE_yROZ >}} 
+Einführung in die Theorie der Konsumentscheidung
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/introduction-consumer-choice-practice-questions).
+
+::: {.callout-tip collapse="true" title="Video: Budgetbeschränkungen"}
+<div>
+
+::: {#vid-dem2}
+{{< video https://youtu.be/sNRZE0kwNGI?si=QJpw6lJ4X52OLhqQ >}} 
+Budgetbeschränkungen
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/budget-constraints-practice-questions).
+:::
+
+::: {.callout-tip collapse="true" title="Video: Indifferenzkurven"}
+<div>
+
+::: {#vid-dem3}
+{{< video https://youtu.be/iOmDo5jLFw8?si=MUxOAhhrJrUPNKBO >}}
+Indifferenzkurven
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](hhttps://mru.org/practice-questions/indifference-curves-practice-questions).
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Optimierung: Welcher Konsum gewählt wird"}
+<div>
+
+::: {#vid-dem4}
+{{< video https://youtu.be/MXIgp-P-FeY?si=t1hEl0NKK16CJdi_ >}}
+Optimierung: Welcher Konsum gewählt wird
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/consumer-optimization-practice-questions).
+:::
+
+
+
+
+
+## Zusammenfassung
+
+Lesen Sie als Zusammenfassung das Kapitel 6.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+
+
+
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus Kapitel 6.2.2 in @bofinger_grundzuge_2020.
+
+## Übungsaufgaben
+
+- Bearbeiten Sie Aufgabe 3 aus Kapitel 6 in @bofinger2020 .
+
+- Bearbeiten Sie die  Aufgaben 3, 4 und 5 aus Kapitel 6.2.1 im Übungsbuch @bofinger_grundzuge_2020.
