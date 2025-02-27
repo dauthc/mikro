@@ -14,9 +14,11 @@ book:
     - chapter_5.qmd
     - chapter_6.qmd
     - chapter_7.qmd
-    - chapter_8.qmd
     - chapter_9.qmd
     - chapter_10.qmd
+    - chapter_11.qmd
+    - chapter_12.qmd
+    - chapter_13.qmd
     - references.qmd
 
 bibliography: references.bib

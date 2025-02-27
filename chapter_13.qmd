@@ -1,0 +1,190 @@
+#  Umweltpolitik und Allokationsfunktion
+
+Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
+
+## Lesen
+
+Lesen Sie das Kapitel 14 aus @bofinger2020 "Umweltpolitik und die Allokationsfunktion des Staates".
+
+
+## Videos
+
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
+Sehen Sie sich folgende Videos an:
+
+::: {#vid-allo1}
+{{< video https://youtu.be/lLzcW5NG5eA?si=HGd3SndEVboSeOFb >}}
+Öffentliche Güter und Abwehr von Astroiden
+:::
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/public-goods-and-asteroid-defense-practice-questions){target=_blank}.
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Ein vertiefter Blick auf öffentliche Güter"}
+<div>
+
+::: {#vid-allo2}
+{{< video https://youtu.be/hA2z-X31IvI?si=LlOc5O4xtxZBl9Nr >}} 
+Ein vertiefter Blick auf öffentliche Güter
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/deeper-look-public-goods-practice-questions){target=_blank}.
+:::
+
+
+::: {.callout-note collapse="true" title="Bonusmaterial: weitere Güterarten"}
+
+::: {.callout-tip collapse="true" title="Video: Clubgüter"}
+<div>
+
+::: {#vid-allo3}
+{{< video https://youtu.be/ZvgFTxhQw1s?si=WqZAvMt1WbGLuleh >}} 
+Clubgüter
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](hhttps://mru.org/practice-questions/club-goods-practice-questions){target=_blank}.
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Die Tragik der Allmende"}
+<div>
+
+::: {#vid-allo4}
+{{< video https://youtu.be/bs2P0wRod8U?si=4LV9E03ldfznHRGS >}} 
+Die Tragik der Allmende
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/tragedy-commons-practice-questions){target=_blank}.
+:::
+:::
+
+::: {.callout-tip collapse="true" title="Video: Einführung in externe Effekte"}
+<div>
+
+::: {#vid-allo5}
+{{< video https://youtu.be/CpVf11f09Pk?si=rBpHWN_wUT1Zowue >}} 
+Einführung in externe Effekte
+:::
+
+</div>
+
+:::
+
+
+::: {.callout-tip collapse="true" title="Video: Was sind negative externe Effekte?"}
+<div>
+
+::: {#vid-allo6}
+{{< video https://youtu.be/Bi2yqqxPAkk?si=k9JXJC3E3i9lrOm1 >}} 
+Was sind negative externe Effekte?
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/what-are-negative-externalities-practice-questions){target=_blank}.
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Was sind positive externe Effekte?"}
+<div>
+
+::: {#vid-allo7}
+{{< video https://youtu.be/mK24CU_Nkw4?si=_tYWDF7VTO6MJbgq >}} 
+Was sind positive externe Effekte?
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/what-are-positive-externalities-practice-questions){target=_blank}.
+:::
+
+
+
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Regulierungen als ordnungsrechtliche Maßnahmen"}
+<div>
+
+::: {#vid-allo9}
+{{< video https://youtu.be/gRolVmFOk1U?si=a3WadBxPRDeAp_EB >}} 
+Regulierungen als ordnungsrechtliche Maßnahmen
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/what-are-positive-externalities-practice-questions){target=_blank}.
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Das Coase-Theorem"}
+<div>
+
+::: {#vid-allo10}
+{{< video https://youtu.be/00HPak2RLlQ?si=s0w0i_OFmIYVwIvt >}} 
+Das Coase-Theorem
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/coase-theorem-practice-questions){target=_blank}.
+:::
+
+
+
+::: {.callout-tip collapse="true" title="Video: Umweltzertifikate: Der Handel mit Verschmutzung als marktbasierte Maßnahme"}
+<div>
+
+::: {#vid-allo11}
+{{< video https://youtu.be/9tUb3MDrgEc?si=ELy7ae7f0npAgaGI >}} 
+Der Handel mit Verschmutzung
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/trading-pollution-practice-questions){target=_blank}.
+:::
+
+
+
+
+::: {.callout-tip collapse="true" title="Video: Ein vertiefter Blick auf Umweltzertifikate"}
+<div>
+
+::: {#vid-allo12}
+{{< video https://youtu.be/oAuPT_wiFgc?si=OFLNhXMXhKQZDDIF >}} 
+Ein vertiefter Blick auf Umweltzertifikate
+:::
+
+</div>
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/deeper-look-tradeable-allowances-practice-questions){target=_blank}.
+:::
+
+
+
+## Zusammenfassung
+
+Lesen Sie als Zusammenfassung das Kapitel 14.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+
+## Wiederholungsfragen
+
+Reflektieren Sie die Kontrollfragen aus Kapitel 14.2.2 in @bofinger_grundzuge_2020.
+
+
+
+## Übungsaufgaben
+
+
+-   Bearbeiten Sie die Aufgaben 2, 3 und 4 aus Kapitel 14 in @bofinger2020 .
+
+-   Bearbeiten Sie Aufgabe 5 aus Kapitel 14.2.1 im Übungsbuch @bofinger_grundzuge_2020.

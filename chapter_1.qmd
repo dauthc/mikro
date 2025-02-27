@@ -10,15 +10,21 @@ Lesen Sie das Kapitel 2 aus @bofinger2020 "Volkswirtschaftliche Daten und Rechen
 
 Sehen Sie sich folgende Videos an:
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
 ::: {#vid-price1}
-{{< video https://youtu.be/t3QMC_TeP-Q?si=9s-h6kHLc26Rtvi4 >}} I, Rose
+{{< video https://youtu.be/t3QMC_TeP-Q?si=9s-h6kHLc26Rtvi4 >}} 
+I, Rose
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Ein Preis ist ein Signal, das als Anreiz verpackt ist "}
 <div>
 
 ::: {#vid-price2}
-{{< video https://youtu.be/aBYzvPbIFNw?si=DcbTrK2uL7wD3a8A >}} Ein Preis ist ein Signal, das als Anreiz verpackt ist
+{{< video https://youtu.be/aBYzvPbIFNw?si=DcbTrK2uL7wD3a8A >}} 
+Ein Preis ist ein Signal, das als Anreiz verpackt ist
 :::
 
 </div>
@@ -30,7 +36,8 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-price3}
-{{< video https://youtu.be/vzkYfgme2Ps?si=jNMKjKllLTyOcXMc >}} Märkte verbinden die Welt
+{{< video https://youtu.be/vzkYfgme2Ps?si=jNMKjKllLTyOcXMc >}} 
+Märkte verbinden die Welt
 :::
 
 </div>
@@ -38,14 +45,12 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/markets-link-world-practice-questions). Einige Fragen können Sie eventuell erst nach späteren Kapiteln beantworten.
 :::
 
-
-
-
 ::: {.callout-tip collapse="true" title="Video: Das große ökonomische Problem"}
 <div>
 
 ::: {#vid-price4}
-{{< video https://youtu.be/F-ybXohHAXY?si=EUnicNAHv3cpQ_Wg >}} Das große ökonomische Problem
+{{< video https://youtu.be/F-ybXohHAXY?si=EUnicNAHv3cpQ_Wg >}} 
+Das große ökonomische Problem
 :::
 
 </div>
@@ -53,14 +58,12 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/great-economic-problem-practice-questions).
 :::
 
-
-
-
 ::: {.callout-tip collapse="true" title="Video: Informationen und Anreize"}
 <div>
 
 ::: {#vid-price5}
-{{< video https://youtu.be/CK9YtHLhjPA?si=Lnx8wy0udTsoO2s- >}} Informationen und Anreize
+{{< video https://youtu.be/CK9YtHLhjPA?si=Lnx8wy0udTsoO2s- >}} 
+Informationen und Anreize
 :::
 
 </div>
@@ -68,12 +71,9 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/information-and-incentives-practices-questions). Einige Fragen können Sie eventuell erst nach späteren Kapiteln beantworten.
 :::
 
-
-
-
 ## Zusammenfassung
 
-Lesen Sie für eine Zusammenfassung das Kapitel 2.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+Lesen Sie als Zusammenfassung das Kapitel 2.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
 
 ## Wiederholungsfragen
 
@@ -81,7 +81,7 @@ Reflektieren Sie die Wiederholungsfragen aus @bofinger_grundzuge_2020 aus Kapite
 
 ## Übungsaufgaben
 
--   **Aufgabe 2:** Zu einem der vier Auktionszeitpunkte im Xetra-Handel liegen für die Aktie der Bubble-Tech folgende Orders vor:
+-   **Aufgabe 2 aus @bofinger2020:** Zu einem der vier Auktionszeitpunkte im Xetra-Handel liegen für die Aktie der Bubble-Tech folgende Orders vor:
 
 ![Orders der Aktie](images/clipboard-1226648361.png)
 

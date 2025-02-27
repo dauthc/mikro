@@ -10,14 +10,16 @@ Lesen Sie das Kapitel 3 aus @bofinger2020 "Die Arbeitsteilung ist die Mutter uns
 
 Sehen Sie sich folgende Videos an:
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
 ::: {#vid-comp1}
-{{< video https://youtu.be/4lCJymynZag?si=soo6QT7t7p0Oyq1N >}}
+{{< video https://youtu.be/4lCJymynZag?si=soo6QT7t7p0Oyq1N >}} 
 Die Grundidee des Handels
 :::
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/big-ideas-trade-practice-questions). 
-
-
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/big-ideas-trade-practice-questions){target=_blank}.
 
 ::: {.callout-tip collapse="true" title="Video: Komparative Vorteile"}
 <div>
@@ -29,7 +31,7 @@ Komparative Vorteile
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/comparative-advantage-practice-questions). 
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/comparative-advantage-practice-questions){target=_blank}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Eine andere Sicht auf komparative Vorteile"}
@@ -42,17 +44,12 @@ Eine andere Sicht auf komparative Vorteile
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/another-look-comparative-advantage-practice-questions). 
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/another-look-comparative-advantage-practice-questions){target=_blank}.
 :::
-
-
-
 
 ## Zusammenfassung
 
 Lesen Sie für eine Zusammenfassung das Kapitel 3.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
-
-
 
 ## Wiederholungsfragen
 

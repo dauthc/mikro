@@ -4,6 +4,11 @@ Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
 
 ## Lesen
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
+
 Lesen Sie das Kapitel 7 aus @bofinger2020 "Wie alle Informationen über die Angebotsseite in der Angebotskurve verdichtet werden".
 
 ## Videos
@@ -11,11 +16,11 @@ Lesen Sie das Kapitel 7 aus @bofinger2020 "Wie alle Informationen über die Ange
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-supp1}
-{{< video https://youtu.be/muFSypea2vo?si=vencHrIARattdRIP >}}
+{{< video https://youtu.be/muFSypea2vo?si=vencHrIARattdRIP >}} 
 Das preisnehmende Unternehmen im Wettbewerbsmarkt
 :::
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/introduction-competitive-firm-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/introduction-competitive-firm-practice-questions){target=_blank}.
 
 ::: {.callout-tip collapse="true" title="Video: Gewinnmaximierung im Wettbewerb"}
 <div>
@@ -27,7 +32,7 @@ Gewinnmaximierung im Wettbewerb
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/maximizing-profit-under-competition-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/maximizing-profit-under-competition-practice-questions){target=_blank}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Gewinnmaximierung und die Durchschnittskostenkurve"}
@@ -40,7 +45,7 @@ Gewinnmaximierung und die Durchschnittskostenkurve
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-increasing-costs-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/maximizing-profit-and-average-cost-curve-practice-questions){target=_blank}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten"}
@@ -53,25 +58,23 @@ Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/consumer-optimization-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-increasing-costs-practice-questions){target=_blank}.
 :::
-
-
-
 
 ::: {.callout-note collapse="true" title="Bonusmaterial: Alternative Kostenszenarien"}
 <div>
 
 ::: {#vid-supp5}
-{{< video https://youtu.be/BZ31XUGj34I?si=38tHgojGp42Asfi9 >}}
+{{< video https://youtu.be/BZ31XUGj34I?si=38tHgojGp42Asfi9 >}} 
 Eintritte, Austritte und Angebotskurven: Der Fall konstanter Kosten
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-constant-costs-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-constant-costs-practice-questions){target=_blank}.
 
 <div>
+
 ::: {#vid-supp6}
 {{< video https://youtu.be/G82LWt7i8as?si=4QqFfqrLr1YhTkyv >}} 
 Eintritte, Austritte und Angebotskurven: Der Fall sinkender Kosten
@@ -79,11 +82,8 @@ Eintritte, Austritte und Angebotskurven: Der Fall sinkender Kosten
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-decreasing-costs-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/entry-exit-and-supply-curves-decreasing-costs-practice-questions){target=_blank}.
 :::
-
-
-
 
 ## Zusammenfassung
 

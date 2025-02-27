@@ -8,6 +8,11 @@ Lesen Sie das Kapitel 6 aus @bofinger2020 "Wie alle Informatinen über die Nachf
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-dem1}
@@ -15,7 +20,7 @@ Sehen Sie sich folgende Videos an:
 Einführung in die Theorie der Konsumentscheidung
 :::
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/introduction-consumer-choice-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/introduction-consumer-choice-practice-questions){target=_blank}.
 
 ::: {.callout-tip collapse="true" title="Video: Budgetbeschränkungen"}
 <div>
@@ -27,47 +32,38 @@ Budgetbeschränkungen
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/budget-constraints-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/budget-constraints-practice-questions){target=_blank}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Indifferenzkurven"}
 <div>
 
 ::: {#vid-dem3}
-{{< video https://youtu.be/iOmDo5jLFw8?si=MUxOAhhrJrUPNKBO >}}
+{{< video https://youtu.be/iOmDo5jLFw8?si=MUxOAhhrJrUPNKBO >}} 
 Indifferenzkurven
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](hhttps://mru.org/practice-questions/indifference-curves-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/indifference-curves-practice-questions){target=_blank}.
 :::
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Optimierung: Welcher Konsum gewählt wird"}
 <div>
 
 ::: {#vid-dem4}
-{{< video https://youtu.be/MXIgp-P-FeY?si=t1hEl0NKK16CJdi_ >}}
+{{< video https://youtu.be/MXIgp-P-FeY?si=t1hEl0NKK16CJdi_ >}} 
 Optimierung: Welcher Konsum gewählt wird
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/consumer-optimization-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/consumer-optimization-practice-questions){target=_blank}.
 :::
-
-
-
-
 
 ## Zusammenfassung
 
 Lesen Sie als Zusammenfassung das Kapitel 6.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
-
-
-
 
 ## Wiederholungsfragen
 
@@ -75,6 +71,6 @@ Reflektieren Sie die Kontrollfragen aus Kapitel 6.2.2 in @bofinger_grundzuge_202
 
 ## Übungsaufgaben
 
-- Bearbeiten Sie Aufgabe 3 aus Kapitel 6 in @bofinger2020 .
+-   Bearbeiten Sie Aufgabe 3 aus Kapitel 6 in @bofinger2020 .
 
-- Bearbeiten Sie die  Aufgaben 3, 4 und 5 aus Kapitel 6.2.1 im Übungsbuch @bofinger_grundzuge_2020.
+-   Bearbeiten Sie die Aufgaben 3, 4 und 5 aus Kapitel 6.2.1 im Übungsbuch @bofinger_grundzuge_2020.

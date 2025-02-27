@@ -11,8 +11,7 @@ Lesen Sie das Kapitel 8 aus @bofinger2020 "Anbieter sind am Wettbewerb nicht seh
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-mono1}
-{{< video https://youtu.be/IEjcTLPtTIY?si=3VecjQAa5ZHkXnk3 >}}
-Gewinnmaximierung im Monopol
+{{< video https://youtu.be/IEjcTLPtTIY?si=3VecjQAa5ZHkXnk3 >}} Gewinnmaximierung im Monopol
 :::
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/maximizing-profit-under-monopoly-practice-questions).
@@ -21,8 +20,7 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-mon2}
-{{< video https://youtu.be/FiQsdBWEaMI?si=aIOOluDsHioIgGHW >}} 
-Sprechstunde: Das Gewinnmaximum im Monopol berechnen
+{{< video https://youtu.be/FiQsdBWEaMI?si=aIOOluDsHioIgGHW >}} Sprechstunde: Das Gewinnmaximum im Monopol berechnen
 :::
 
 </div>
@@ -34,8 +32,7 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-mon3}
-{{< video https://youtu.be/Z-bz7yu2AOQ?si=-xioI3IXyWi0CohS >}} 
-Der Preisaufschlag im Monopol
+{{< video https://youtu.be/Z-bz7yu2AOQ?si=-xioI3IXyWi0CohS >}} Der Preisaufschlag im Monopol
 :::
 
 </div>
@@ -47,8 +44,7 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-mon4}
-{{< video https://youtu.be/oESAMwiF40c?si=wi2dj4bf9oNftl8Q >}} 
-Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten
+{{< video https://youtu.be/oESAMwiF40c?si=wi2dj4bf9oNftl8Q >}} Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten
 :::
 
 </div>
@@ -56,66 +52,49 @@ Eintritte, Austritte und Angebotskurven: Der Fall steigender Kosten
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/consumer-optimization-practice-questions).
 :::
 
-
-
-
 ::: {.callout-tip collapse="true" title="Video: Kosten und Nutzen von Monopolen"}
 <div>
 
 ::: {#vid-mon5}
-{{< video https://youtu.be/i605cdQmrhI?si=svSbDKzAMHl5LkgG >}}
-Kosten und Nutzen von Monopolen
+{{< video https://youtu.be/i605cdQmrhI?si=svSbDKzAMHl5LkgG >}} Kosten und Nutzen von Monopolen
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/costs-and-benefits-monopoly-practice-questions).
-
 :::
-
-
 
 ::: {.callout-note collapse="true" title="Bonusmaterial zur Nachfrageelastizität"}
 <div>
 
 ::: {#vid-mon6}
-{{< video https://youtu.be/J82_xd5XxXg?si=3WBikTRVgQWrOEqp >}}
-Die Nachfrageelastizität
+{{< video https://youtu.be/J82_xd5XxXg?si=3WBikTRVgQWrOEqp >}} Die Nachfrageelastizität
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/elasticity-demand-practice-questions).
 
-
-
-
 <div>
 
 ::: {#vid-mon7}
-{{< video https://youtu.be/lrGiZ7aTlQo?si=9wopH4MOeKTD59Xh >}}
-Die Nachfrageelastizität berechnen
+{{< video https://youtu.be/lrGiZ7aTlQo?si=9wopH4MOeKTD59Xh >}} Die Nachfrageelastizität berechnen
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/calculating-elasticity-demand-practice-questions).
 
-
-
 <div>
 
 ::: {#vid-mon8}
-{{< video  https://youtu.be/EZl86UOlOkg?si=NvENlherkWqmv5OF >}}
-Sprechstunde: Die Nachfrageelastizität
+{{< video https://youtu.be/EZl86UOlOkg?si=NvENlherkWqmv5OF >}} Sprechstunde: Die Nachfrageelastizität
 :::
 
 </div>
 
 Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-elasticity-practice-questions).
-
 :::
-
 
 ## Zusammenfassung
 
@@ -124,8 +103,6 @@ Lesen Sie als Zusammenfassung das Kapitel 8.1 im Arbeitsbuch von @bofinger_grund
 ## Wiederholungsfragen
 
 Reflektieren Sie die Kontrollfragen aus Kapitel 8.2.2 in @bofinger_grundzuge_2020.
-
-
 
 ## Übungsaufgaben
 

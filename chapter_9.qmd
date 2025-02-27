@@ -8,23 +8,24 @@ Lesen Sie das Kapitel 10 aus @bofinger2020 "Auch auf dem Arbeitsmarkt gelten die
 
 ## Videos
 
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
+
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-am1}
-{{< video https://youtu.be/G7ai5LAehqg?si=dkJCQd1aanRAspez >}}
+{{< video https://youtu.be/G7ai5LAehqg?si=dkJCQd1aanRAspez >}} 
 Das Grenzprodukt der Arbeit
 :::
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/marginal-product-labor-practice-questions).
-
-
-
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/marginal-product-labor-practice-questions){target=_blank}.
 
 ::: {.callout-tip collapse="true" title="Video: Der Kompromiss zwischen Spaß und Lohn: No Such Thing as a Free Lunch"}
 <div>
 
 ::: {#vid-am2}
-{{< video hhttps://youtu.be/lpSz2x0c1rU?si=CEDBgE2rqumInzOs >}} 
+{{< video https://youtu.be/lpSz2x0c1rU?si=CEDBgE2rqumInzOs >}} 
 Der Kompromiss zwischen Spaß und Lohn
 :::
 
@@ -41,9 +42,8 @@ Preisuntergrenzen: Der Mindestlohn
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-floors-minimum-wage-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-floors-minimum-wage-practice-questions){target=_blank}.
 :::
-
 
 ## Zusammenfassung
 
@@ -52,8 +52,6 @@ Lesen Sie als Zusammenfassung das Kapitel 10.1 im Arbeitsbuch von @bofinger_grun
 ## Wiederholungsfragen
 
 Reflektieren Sie die Kontrollfragen aus Kapitel 10.2.2 in @bofinger_grundzuge_2020.
-
-
 
 ## Übungsaufgaben
 

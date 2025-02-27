@@ -6,58 +6,96 @@ Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
 
 Lesen Sie das Kapitel 12 aus @bofinger2020 "Die Distributionsfunktion des Staates sorgt für den "sozialen Ausgleich" in einer Marktwirtschaft".
 
-
 ## Videos
+
+::: {.callout-important title="Praktischer Hinweis"}
+Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser übersetzen lassen. Bei fremdsprachigen Videos können Sie sich Untertitel, die automatisch ins Deutsche übersetzt werden, einblenden lassen. Beachten Sie aber, dass Fachsprache oft nicht ganz korrekt übersetzt wird. Im Zweifelsfall lohnt es sich, die entsprechenden Textpassagen im deutschen Lehrbuch nachzulesen, um sich die korrekten Fachbegriffe anzueignen.
+:::
 
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-dist1}
-{{< video https://youtu.be/sq1zIj8s8R0?si=rm-mYSlaakZMZIod >}}
-Höchstpreise
+{{< video https://youtu.be/sq1zIj8s8R0?si=rm-mYSlaakZMZIod >}} 
+Preisdeckel
 :::
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-ceiling-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-ceiling-practice-questions){target=_blank}.
 
-
-
-
-::: {.callout-tip collapse="true" title="Video: Der Kompromiss zwischen Spaß und Lohn: No Such Thing as a Free Lunch"}
+::: {.callout-tip collapse="true" title="Video: Preisobergrenzen: Knappheit und Qualitätsminderung"}
 <div>
 
-::: {#vid-am2}
-{{< video hhttps://youtu.be/lpSz2x0c1rU?si=CEDBgE2rqumInzOs >}} 
-Der Kompromiss zwischen Spaß und Lohn
+::: {#vid-dist2}
+{{< video https://youtu.be/RBGHmCIBr9M?si=GtKpNefPxvRmx1rL >}} 
+Preisobergrenzen: Knappheit und Qualitätsminderung
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-ceilings-shortages-and-quality-reduction-practice-questions){target=_blank}.
+:::
+
+::: {.callout-tip collapse="true" title="Video: Preisobergrenzen: Warteschlangen und Suchkosten"}
+<div>
+
+::: {#vid-dist3}
+{{< video https://youtu.be/hn2KjNvQkJg?si=2F_cpS83G9d9owqV >}} 
+Preisobergrenzen: Warteschlangen und Suchkosten
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-ceilings-lines-and-search-costs-practice-questions){target=_blank}.
+:::
+
+::: {.callout-tip collapse="true" title="Video: Preisobergrenzen: Wolhlfahrtsverluste"}
+<div>
+
+::: {#vid-dist4}
+{{< video https://youtu.be/YbLAASzzo6A?si=lpI7G_-xJBGRWeny >}} 
+Preisobergrenzen: Wolhlfahrtsverluste
+:::
+
+</div>
+
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-ceilings-deadweight-loss-practice-questions){target=_blank}.
+:::
+
+::: {.callout-tip collapse="true" title="Video: Preisobergrenzen: Fehlallokation von Ressourcen"}
+<div>
+
+::: {#vid-dist5}
+{{< video https://youtu.be/yiSrxuZW1zI?si=xa7TRye5v4lz5WyD >}} 
+Preisobergrenzen: Fehlallokation von Ressourcen
 :::
 
 </div>
 :::
 
-::: {.callout-tip collapse="true" title="Video: Preisuntergrenzen: Der Mindestlohn"}
+::: {.callout-tip collapse="true" title="Video: Preisobergrenzen: Mietpreisbremse"}
 <div>
 
-::: {#vid-am3}
-{{< video https://youtu.be/65kfAswiHLk?si=GzCm6FM9Ue4q_Zsq >}} 
-Preisuntergrenzen: Der Mindestlohn
+::: {#vid-dist6}
+{{< video https://youtu.be/hMkvmZK3AJ4?si=n4hDoa3R9IOIcHis >}} 
+Preisobergrenzen: Mietpreisbremse
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-floors-minimum-wage-practice-questions).
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/price-ceilings-rent-control-practice-questions){target=_blank}.
 :::
-
 
 ## Zusammenfassung
 
-Lesen Sie als Zusammenfassung das Kapitel 10.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
+Lesen Sie als Zusammenfassung das Kapitel 12.1 im Arbeitsbuch von @bofinger_grundzuge_2020.
 
 ## Wiederholungsfragen
 
-Reflektieren Sie die Kontrollfragen aus Kapitel 10.2.2 in @bofinger_grundzuge_2020.
-
-
+Reflektieren Sie die Kontrollfragen aus Kapitel 12.2.2 in @bofinger_grundzuge_2020.
 
 ## Übungsaufgaben
 
--   Bearbeiten Sie die Aufgaben 1 und 2 aus Kapitel 10 in @bofinger2020 .
+-   Bearbeiten Sie die Aufgaben 1 und 2 aus Kapitel 12 in @bofinger2020 .
 
--   Bearbeiten Sie die Aufgaben 3 und 5 aus Kapitel 10.2.1 im Übungsbuch @bofinger_grundzuge_2020.
+-   Bearbeiten Sie die Aufgaben 4 und 5 aus Kapitel 12.2.1 im Übungsbuch @bofinger_grundzuge_2020.
+
+-   [Interkative Übung zu Preisobergrenzen](https://practice.mru.org/priceceilings/?_ga=2.69873047.648566475.1740575434-665528378.1737011828){target=_blank}
