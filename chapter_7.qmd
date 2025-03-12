@@ -4,7 +4,13 @@ Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie Kapitel 8 aus @bofinger2020 "Anbieter sind am Wettbewerb nicht sehr interessiert: die Welt von Monopolen und Kartellen" und aus Kapitel 9 "Die komplexen Welten des Duopols und des monopolistischen Wettbewerbs" die beiden Unterkapitel 9.3 "Das Gefangenendilemma" und 9.5 "Das Modell der Monopolistischen Konkurrenz" (ohne formale Herleitung).
+Lesen Sie Kapitel 8 aus @bofinger2020 "Anbieter sind am Wettbewerb nicht sehr interessiert: die Welt von Monopolen und Kartellen".
+
+Lesen Sie zudem aus Kapitel 9 "Die komplexen Welten des Duopols und des monopolistischen Wettbewerbs" die beiden Unterkapitel
+
+-   9.3 "Das Gefangenendilemma" und
+
+-   9.5 "Das Modell der Monopolistischen Konkurrenz" (ohne formale Herleitung).
 
 ## Videos
 
