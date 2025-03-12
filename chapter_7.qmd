@@ -4,7 +4,7 @@ Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 8 aus @bofinger2020 "Anbieter sind am Wettbewerb nicht sehr interessiert: die Welt von Monopolen und Kartellen".
+Lesen Sie Kapitel 8 aus @bofinger2020 "Anbieter sind am Wettbewerb nicht sehr interessiert: die Welt von Monopolen und Kartellen" und aus Kapitel 9 "Die komplexen Welten des Duopols und des monopolistischen Wettbewerbs" die beiden Unterkapitel 9.3 "Das Gefangenendilemma" und 9.5 "Das Modell der Monopolistischen Konkurrenz" (ohne formale Herleitung).
 
 ## Videos
 
@@ -15,86 +15,77 @@ Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser überse
 Sehen Sie sich folgende Videos an:
 
 ::: {#vid-mono1}
-{{< video https://youtu.be/IEjcTLPtTIY?si=3VecjQAa5ZHkXnk3 >}} 
-Gewinnmaximierung im Monopol
+{{< video https://youtu.be/IEjcTLPtTIY?si=3VecjQAa5ZHkXnk3 >}} Gewinnmaximierung im Monopol
 :::
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/maximizing-profit-under-monopoly-practice-questions){target=_blank}.
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/maximizing-profit-under-monopoly-practice-questions){target="_blank"}.
 
 ::: {.callout-tip collapse="true" title="Video: Sprechstunde: Das Gewinnmaximum im Monopol berechnen"}
 <div>
 
 ::: {#vid-mon2}
-{{< video https://youtu.be/FiQsdBWEaMI?si=aIOOluDsHioIgGHW >}} 
-Sprechstunde: Das Gewinnmaximum im Monopol berechnen
+{{< video https://youtu.be/FiQsdBWEaMI?si=aIOOluDsHioIgGHW >}} Sprechstunde: Das Gewinnmaximum im Monopol berechnen
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-calculating-monopoly-profit-practice-questions){target=_blank}.
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-calculating-monopoly-profit-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Der Preisaufschlag im Monopol"}
 <div>
 
 ::: {#vid-mon3}
-{{< video https://youtu.be/Z-bz7yu2AOQ?si=-xioI3IXyWi0CohS >}} 
-Der Preisaufschlag im Monopol
+{{< video https://youtu.be/Z-bz7yu2AOQ?si=-xioI3IXyWi0CohS >}} Der Preisaufschlag im Monopol
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/monopoly-markup-practice-questions){target=_blank}.
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/monopoly-markup-practice-questions){target="_blank"}.
 :::
-
-
 
 ::: {.callout-tip collapse="true" title="Video: Kosten und Nutzen von Monopolen"}
 <div>
 
 ::: {#vid-mon4}
-{{< video https://youtu.be/i605cdQmrhI?si=svSbDKzAMHl5LkgG >}} 
-Kosten und Nutzen von Monopolen
+{{< video https://youtu.be/i605cdQmrhI?si=svSbDKzAMHl5LkgG >}} Kosten und Nutzen von Monopolen
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/costs-and-benefits-monopoly-practice-questions){target=_blank}.
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/costs-and-benefits-monopoly-practice-questions){target="_blank"}.
 :::
 
 ::: {.callout-note collapse="true" title="Bonusmaterial zur Nachfrageelastizität"}
 <div>
 
 ::: {#vid-mon5}
-{{< video https://youtu.be/J82_xd5XxXg?si=3WBikTRVgQWrOEqp >}} 
-Die Nachfrageelastizität
+{{< video https://youtu.be/J82_xd5XxXg?si=3WBikTRVgQWrOEqp >}} Die Nachfrageelastizität
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/elasticity-demand-practice-questions){target=_blank}.
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/elasticity-demand-practice-questions){target="_blank"}.
 
 <div>
 
 ::: {#vid-mon6}
-{{< video https://youtu.be/lrGiZ7aTlQo?si=9wopH4MOeKTD59Xh >}} 
-Die Nachfrageelastizität berechnen
+{{< video https://youtu.be/lrGiZ7aTlQo?si=9wopH4MOeKTD59Xh >}} Die Nachfrageelastizität berechnen
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/calculating-elasticity-demand-practice-questions){target=_blank}.
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/calculating-elasticity-demand-practice-questions){target="_blank"}.
 
 <div>
 
 ::: {#vid-mon7}
-{{< video https://youtu.be/EZl86UOlOkg?si=NvENlherkWqmv5OF >}} 
-Sprechstunde: Die Nachfrageelastizität
+{{< video https://youtu.be/EZl86UOlOkg?si=NvENlherkWqmv5OF >}} Sprechstunde: Die Nachfrageelastizität
 :::
 
 </div>
 
-Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-elasticity-practice-questions){target=_blank}.
+Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru.org/practice-questions/office-hours-elasticity-practice-questions){target="_blank"}.
 :::
 
 ## Zusammenfassung

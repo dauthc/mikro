@@ -4,7 +4,7 @@ Zur Bearbeitung des Kapitels nutzen Sie bitte folgende Selbstlernmaterialien:
 
 ## Lesen
 
-Lesen Sie das Kapitel 2 aus @bofinger2020 "Volkswirtschaftliche Daten und Rechenwerke".
+Lesen Sie das Kapitel 2 aus @bofinger2020 "Die "unsichtbare Hand" des Marktes: Wie kommt der Aktienkurs für die Hyper-Tec AG zustande?".
 
 ## Videos
 
@@ -15,16 +15,14 @@ Sie können fremdsprachige Inhalte auf Webseiten direkt in Ihrem Browser überse
 :::
 
 ::: {#vid-price1}
-{{< video https://youtu.be/t3QMC_TeP-Q?si=9s-h6kHLc26Rtvi4 >}} 
-I, Rose
+{{< video https://youtu.be/t3QMC_TeP-Q?si=9s-h6kHLc26Rtvi4 >}} I, Rose
 :::
 
 ::: {.callout-tip collapse="true" title="Video: Ein Preis ist ein Signal, das als Anreiz verpackt ist "}
 <div>
 
 ::: {#vid-price2}
-{{< video https://youtu.be/aBYzvPbIFNw?si=DcbTrK2uL7wD3a8A >}} 
-Ein Preis ist ein Signal, das als Anreiz verpackt ist
+{{< video https://youtu.be/aBYzvPbIFNw?si=DcbTrK2uL7wD3a8A >}} Ein Preis ist ein Signal, das als Anreiz verpackt ist
 :::
 
 </div>
@@ -36,8 +34,7 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-price3}
-{{< video https://youtu.be/vzkYfgme2Ps?si=jNMKjKllLTyOcXMc >}} 
-Märkte verbinden die Welt
+{{< video https://youtu.be/vzkYfgme2Ps?si=jNMKjKllLTyOcXMc >}} Märkte verbinden die Welt
 :::
 
 </div>
@@ -49,8 +46,7 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-price4}
-{{< video https://youtu.be/F-ybXohHAXY?si=EUnicNAHv3cpQ_Wg >}} 
-Das große ökonomische Problem
+{{< video https://youtu.be/F-ybXohHAXY?si=EUnicNAHv3cpQ_Wg >}} Das große ökonomische Problem
 :::
 
 </div>
@@ -62,8 +58,7 @@ Beantworten Sie folgende kurze Übungsfragen [auf der Seite von MRU](https://mru
 <div>
 
 ::: {#vid-price5}
-{{< video https://youtu.be/CK9YtHLhjPA?si=Lnx8wy0udTsoO2s- >}} 
-Informationen und Anreize
+{{< video https://youtu.be/CK9YtHLhjPA?si=Lnx8wy0udTsoO2s- >}} Informationen und Anreize
 :::
 
 </div>
